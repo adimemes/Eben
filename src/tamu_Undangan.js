@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function () {
         } else if (nama) {
             formattedName = `${nama}`;
         } else {
-            formattedName = ' Tamu Undangan';
+            formattedName = ' Kelas 2D ';
         }
 
         return formattedName.trim();
